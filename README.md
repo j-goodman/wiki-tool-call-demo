@@ -25,3 +25,5 @@ From this project directory, run:
 ```bash
 node app.js "What do you know about Scotland?"
 ```
+
+You can use this as a template for building agents capable of making calls to other APIs and external tools.
